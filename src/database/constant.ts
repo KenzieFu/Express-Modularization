@@ -1,0 +1,1 @@
+export const MONGO_URL_LOCAL = "mongodb+srv://kenzie:kenzie@cluster0.ockzv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
